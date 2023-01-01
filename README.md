@@ -1,5 +1,5 @@
-  # lakrin 
-## hi ! i am a new web developer
-- beginner level : css , javasvcirpt    
-- intermediate level : html
-- It's only my fourth month :)(
+  # Yasin Bahadir Ayas (lakrin)
+## hi!
+- beginner level : javascript
+- intermediate level : html,css
+- It's only been 2 weeks since I started my fornt-end career
