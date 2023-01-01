@@ -1,4 +1,4 @@
-  #) Yasin Bahadir Ayas (lakrin)
+#  YASİN BAHADIR AYAS (LAKRİN)
 ## hi!
 - beginner level : javascript
 - intermediate level : html,css
